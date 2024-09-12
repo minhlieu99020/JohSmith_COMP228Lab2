@@ -1,3 +1,5 @@
+package exercise1;
+
 public class Singers {
     private int id;
     private String name;

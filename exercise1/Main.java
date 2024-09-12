@@ -1,3 +1,5 @@
+package exercise1;
+
 public class Main {
     public static void main(String[] args) {
         Singers singer1 = new Singers();
