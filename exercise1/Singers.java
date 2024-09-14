@@ -55,7 +55,6 @@ public class Singers {
     public void setDateOfBirth(String dateOfBirth) {
         this.dateOfBirth = dateOfBirth;
     }
-
     public void setNumberOfAlbumsPublished(int numberOfAlbumsPublished) {
         this.numberOfAlbumsPublished = numberOfAlbumsPublished;
     }
